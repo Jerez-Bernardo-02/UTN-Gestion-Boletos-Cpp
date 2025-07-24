@@ -1,0 +1,312 @@
+# depslib dependency file v1.0
+1753247256 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoadministradores.cpp
+	"ArchivoAdministradores.h"
+	<string>
+	<cstring>
+
+1753246715 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoadministradores.h
+	"Administrador.h"
+	<string>
+
+1753252579 c:\users\berna\desktop\utn - sistema de gestion de boletos\administrador.h
+	<string>
+
+1753139061 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoboletos.cpp
+	"ArchivoBoletos.h"
+	<string>
+	<cstring>
+	<stdio.h>
+
+1753047548 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoboletos.h
+	"Boleto.h"
+	<string>
+
+1753137384 c:\users\berna\desktop\utn - sistema de gestion de boletos\boleto.h
+	"Estacion.h"
+	<string>
+	<ctime>
+
+1753252167 c:\users\berna\desktop\utn - sistema de gestion de boletos\estacion.h
+	<string>
+
+1753129931 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoestaciones.cpp
+	"ArchivoEstaciones.h"
+	<string>
+	<cstring>
+	<stdio.h>
+
+1751378638 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivoestaciones.h
+	"Estacion.h"
+	<string>
+
+1753246715 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivopasajeros.cpp
+	"ArchivoPasajeros.h"
+	<string>
+	<cstring>
+	<stdio.h>
+
+1753246140 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivopasajeros.h
+	"Pasajero.h"
+	<string>
+
+1753252170 c:\users\berna\desktop\utn - sistema de gestion de boletos\pasajero.h
+	<string>
+
+1753129987 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivotarifas.cpp
+	"ArchivoTarifas.h"
+	<string>
+	<cstring>
+	<stdio.h>
+
+1751378638 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivotarifas.h
+	"Tarifa.h"
+	<string>
+
+1752872754 c:\users\berna\desktop\utn - sistema de gestion de boletos\tarifa.h
+	<string>
+	"Estacion.h"
+
+1753111995 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\archivotrenes.cpp
+	"ArchivoTrenes.h"
+	<string>
+	<cstring>
+	<stdio.h>
+
+1751378638 c:\users\berna\desktop\utn - sistema de gestion de boletos\archivotrenes.h
+	"Tren.h"
+	<string>
+
+1752941654 c:\users\berna\desktop\utn - sistema de gestion de boletos\tren.h
+	<string>
+
+1753262923 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\boleto.cpp
+	"Boleto.h"
+	<iostream>
+	<string>
+	<cstring>
+	<ctime>
+
+1753138738 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\fechahorasistema.cpp
+	"FechaHoraSistema.h"
+	<ctime>
+
+1753138738 c:\users\berna\desktop\utn - sistema de gestion de boletos\fechahorasistema.h
+	<ctime>
+
+1753284603 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\funcionesdefensa.cpp
+
+1752939445 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managerconfiguraciones.cpp
+	"ManagerConfiguraciones.h"
+	"ArchivoPasajeros.h"
+	"ArchivoTrenes.h"
+	"ArchivoEstaciones.h"
+	"ArchivoTarifas.h"
+	"ArchivoBoletos.h"
+	<iostream>
+
+1752602618 c:\users\berna\desktop\utn - sistema de gestion de boletos\managerconfiguraciones.h
+
+1753252579 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\administrador.cpp
+	"Administrador.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1753392618 c:\users\berna\desktop\utn - sistema de gestion de boletos\funcionesglobales.h
+	"FechaHoraSistema.h"
+	<string>
+
+1753252166 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\estacion.cpp
+	"Estacion.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1753225703 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+	<iostream>
+	<cstring>
+
+1753392603 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\main.cpp
+	"MenuUsuario.h"
+	"MenuAdministrador.h"
+	"FuncionesGlobales.h"
+	<ctime>
+	<iostream>
+
+1753278798 c:\users\berna\desktop\utn - sistema de gestion de boletos\menuusuario.h
+
+1753258088 c:\users\berna\desktop\utn - sistema de gestion de boletos\menuadministrador.h
+
+1753262149 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\manageradministradores.cpp
+	"ManagerAdministradores.h"
+	"ArchivoAdministradores.h"
+	"Administrador.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<cstring>
+
+1753260697 c:\users\berna\desktop\utn - sistema de gestion de boletos\manageradministradores.h
+	"Administrador.h"
+
+1753254893 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managerboletos.cpp
+	"ManagerBoletos.h"
+	"ArchivoBoletos.h"
+	"Boleto.h"
+	"ManagerEstaciones.h"
+	"ArchivoEstaciones.h"
+	"Estacion.h"
+	"ManagerPasajeros.h"
+	"ManagerTarifas.h"
+	"ManagerTrenes.h"
+	"FuncionesGlobales.h"
+	"FechaHoraSistema.h"
+	<iostream>
+	<cstring>
+	<ctime>
+
+1753221080 c:\users\berna\desktop\utn - sistema de gestion de boletos\managerboletos.h
+	"Boleto.h"
+	"Estacion.h"
+
+1753221060 c:\users\berna\desktop\utn - sistema de gestion de boletos\managerestaciones.h
+	"Estacion.h"
+
+1753254893 c:\users\berna\desktop\utn - sistema de gestion de boletos\managerpasajeros.h
+	"Pasajero.h"
+
+1753052819 c:\users\berna\desktop\utn - sistema de gestion de boletos\managertarifas.h
+	"Tarifa.h"
+
+1753128688 c:\users\berna\desktop\utn - sistema de gestion de boletos\managertrenes.h
+	"Tren.h"
+
+1753393288 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managertarifas.cpp
+	"ManagerTarifas.h"
+	"ArchivoTarifas.h"
+	"Tarifa.h"
+	"Estacion.h"
+	"ManagerEstaciones.h"
+	"FuncionesGlobales.h"
+	<cstring>
+	<iostream>
+
+1753263906 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managertrenes.cpp
+	"ManagerTrenes.h"
+	"ArchivoTrenes.h"
+	"Tren.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753261876 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menuadministrador.cpp
+	"MenuAdministrador.h"
+	"MenuPasajeros.h"
+	"MenuTrenes.h"
+	"MenuEstaciones.h"
+	"MenuTarifas.h"
+	"MenuBoletos.h"
+	"MenuConfiguraciones.h"
+	"ManagerAdministradores.h"
+	"ArchivoAdministradores.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753231400 c:\users\berna\desktop\utn - sistema de gestion de boletos\menupasajeros.h
+
+1753231112 c:\users\berna\desktop\utn - sistema de gestion de boletos\menutrenes.h
+
+1753235680 c:\users\berna\desktop\utn - sistema de gestion de boletos\menuestaciones.h
+
+1753238782 c:\users\berna\desktop\utn - sistema de gestion de boletos\menutarifas.h
+
+1753231785 c:\users\berna\desktop\utn - sistema de gestion de boletos\menuboletos.h
+
+1753232099 c:\users\berna\desktop\utn - sistema de gestion de boletos\menuconfiguraciones.h
+
+1753231785 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menuboletos.cpp
+	"MenuBoletos.h"
+	"ManagerBoletos.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753262410 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menuconfiguraciones.cpp
+	"MenuConfiguraciones.h"
+	"ManagerConfiguraciones.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753237240 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menuestaciones.cpp
+	"MenuEstaciones.h"
+	"ManagerEstaciones.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753234085 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menupasajeros.cpp
+	"MenuPasajeros.h"
+	"ManagerPasajeros.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753239578 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menutarifas.cpp
+	"MenuTarifas.h"
+	"ManagerTarifas.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753231135 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menutrenes.cpp
+	"MenuTrenes.h"
+	"ManagerTrenes.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753278784 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\menuusuario.cpp
+	"MenuUsuario.h"
+	"ManagerPasajeros.h"
+	"ManagerTrenes.h"
+	"ManagerEstaciones.h"
+	"ManagerTarifas.h"
+	"ManagerBoletos.h"
+	"FuncionesGlobales.h"
+	<iostream>
+
+1753252579 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\pasajero.cpp
+	"Pasajero.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1753392634 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managerestaciones.cpp
+	"ManagerEstaciones.h"
+	"ArchivoEstaciones.h"
+	"Estacion.h"
+	"FuncionesGlobales.h"
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1753129740 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\tarifa.cpp
+	"Tarifa.h"
+	"Estacion.h"
+	"ManagerEstaciones.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1753129776 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\tren.cpp
+	"Tren.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1753392648 source:c:\users\berna\desktop\utn - sistema de gestion de boletos\managerpasajeros.cpp
+	"ManagerPasajeros.h"
+	"ArchivoPasajeros.h"
+	"Pasajero.h"
+	"FuncionesGlobales.h"
+	<iostream>
+	<cstring>
+
