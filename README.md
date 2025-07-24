@@ -31,3 +31,7 @@ Administradores
       + Registrar nuevos administradores
       + Modificar los rangos de los administradores
       + Ver todas las cuentas y contraseñas de los administradores
+
+  - Para entrar al sistema de administrador, los datos son:
+      + Nombre de usuario: bernardo123
+      + Contraseña: perro123
